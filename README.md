@@ -147,7 +147,9 @@ source $(brew --prefix nvm)/nvm.sh
 11. cheat-sheet
 12. youdao-note
 13. karabiner-elements
-14. hexo.sh
+14. hexo.sh 
+> curl -s https://xaoxuu.com/install | sh -s hexo.sh 
+> 一个用来简化hexo操作的脚本
 15. git config
 ```conf
 [user]
