@@ -1,8 +1,8 @@
-# Mac 装机指南 (I‘M a Front End Developer)
+# Dev-Setup For Mac (I‘M a Front End Developer)
 
 > Today is Sat 23 Nov 2019
 
-## 配置 & 价格
+## Model & Price
 
 - 2.3GHz 8 核第九代 Intel Core i9 处理器，Turbo Boost 最高可达 4.8GHz
 - 32GB 2666MHz DDR4 内存
@@ -16,7 +16,7 @@
 
 RMB 25,135
 
-## 必备
+## Must Have
 
 0. system update
 1. xcode-select --install
@@ -50,7 +50,7 @@ RMB 25,135
   - Set Default Directory
 15. ssh-keygen -t rsa -b 4096 -C "email@email.com"
 
-## 可选
+## Optional
 
 1. docker
 2. tree
