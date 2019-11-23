@@ -25,11 +25,11 @@ RMB 25,135
 4. zsh
 5. visual-studio-code (extensions)
 
-  5.1. cat extensions.txt | xargs -L1 code --install-extension
-  5.2. setting-sync
+  > cat extensions.txt | xargs -L1 code --install-extension
+  > setting-sync
   
-  extensions:
-  ```conf
+extensions:
+```conf
   vscode-leetcode
   scode-import-cost
   vscode-eslint
@@ -47,11 +47,11 @@ RMB 25,135
   carbon-now-sh
   vsliveshare
   
-  ```
+```
   
   
-  keybinding:
-  ```json
+keybinding:
+```json
     // 将键绑定放在此文件中以覆盖默认值auto[]
     [
         {
@@ -59,41 +59,43 @@ RMB 25,135
             "command": "git.sync"
         }
     ]
-  ```
+```
 6. google-chrome (extensions)
-  6.1. passive（Highly Suggested）
-  ```conf
+  
+6.1. passive（Highly Suggested）
+```conf
   ad-block
   refined-github
-  ```
-  6.2. active
-  ```conf
+```
+  
+6.2. active
+```conf
     outline
     onetab
     switchy omega
     sina-pic
     git-pod
     uc-qrcode
-  ```
+```
 7. git
 8. nvm  & yarn
 9. postman
 10.spectacle
 11. dotfiles
  - alias 
- ```conf
+```conf
   alias cls='clear'
   alias nis='cnpm i --save'
   alias myip='curl http://ipecho.net/plain'
   alias s="sudo"
   ...
- ```
+```
  - ZSH_THEME (agnoster for example)
- ```conf
+```conf
   ZSH_THEME="agnoster"
   # to hide the username@hostname
   USER=``
- ```
+```
 12. preference
 
 - Trackpad > Tap to click
