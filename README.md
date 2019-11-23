@@ -4,15 +4,15 @@
 
 ## Model & Price
 
-- 2.3GHz 8 核第九代 Intel Core i9 处理器，Turbo Boost 最高可达 4.8GHz
-- 32GB 2666MHz DDR4 内存
-- AMD Radeon Pro 5500M 图形处理器，配备 4GB GDDR6 显存
-- 1TB 固态硬盘
-- 采用原彩显示技术的 16 英寸视网膜显示屏
-- 四个雷雳 3 端口
-- 触控栏和触控 ID
-- 背光键盘 - 美式英语
-- 配件套件
+- 2.3GHz 8-core 9th-generation Intel Core i9 processor
+- Turbo Boost up to 4.8GHz
+- AMD Radeon Pro 5500M with 4GB of GDDR6 memory
+- 32GB 2666MHz DDR4 memory
+- 1TB SSD storage¹
+- 16-inch Retina display with True Tone
+- Touch Bar and Touch ID
+- Four Thunderbolt 3 ports
+
 
 RMB 25,135
 
