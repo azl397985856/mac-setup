@@ -120,6 +120,8 @@ keybinding:
 16. ssh-keygen -t rsa -b 4096 -C "email@email.com"
 17. alfred with powerpack
 18. dash
+19. switchy-host
+20. foxmail
 
 ## Optional
 
@@ -133,14 +135,18 @@ keybinding:
 8. DingTalk
 9. Wechat
 10. QQ
-11. git config
+11. cheat-sheet
+12. youdao-note
+13. karabiner-elements
+14. hexo.sh
+15. git config
 ```conf
 [user]
 	name = lucifer
 	email = lucifer@tsign.cn
 
 ```
-12. preference
+16. preference
 
 - Trackpad > Scroll & Zoom > uncheck scroll direction: Natural
 - Users & Groups > Edit Avatar
