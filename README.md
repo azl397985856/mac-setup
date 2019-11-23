@@ -24,8 +24,9 @@ RMB 25,135
 3. iterm2
 4. zsh
 5. visual-studio-code (extensions)
-  5.1 cat extensions.txt | xargs -L1 code --install-extension
-  5.2 setting-sync
+
+  5.1. cat extensions.txt | xargs -L1 code --install-extension
+  5.2. setting-sync
   
   extensions:
   ```conf
@@ -60,12 +61,12 @@ RMB 25,135
     ]
   ```
 6. google-chrome (extensions)
-  5.1 passive（Highly Suggested）
+  6.1. passive（Highly Suggested）
   ```conf
   ad-block
   refined-github
   ```
-  5.2 active
+  6.2. active
   ```conf
     outline
     onetab
