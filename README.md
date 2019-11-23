@@ -102,6 +102,8 @@ source $(brew --prefix nvm)/nvm.sh
   ...
 ```
  - ZSH_THEME (agnoster for example)
+ 
+ 
 ```conf
   ZSH_THEME="agnoster"
   # to hide the username@hostname
@@ -157,3 +159,13 @@ source $(brew --prefix nvm)/nvm.sh
 
 - Trackpad > Scroll & Zoom > uncheck scroll direction: Natural
 - Users & Groups > Edit Avatar
+
+## Others
+
+### 关于安装了agnoster主题有乱码的解决方法
+```bash
+git clone https://github.com/powerline/fonts.git --depth=1
+cd fonts 
+./install.sh
+```
+最后在iterm中选择字体即可，具体操作：iTerm → Preferences → Profiles → Text → Change Font→ Meslo
