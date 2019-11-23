@@ -19,13 +19,16 @@ RMB 25,135
 ## Must Have
 
 0. system update
-1. xcode-select --install
-2. brew.sh
-3. iterm2
-4. zsh
-5. visual-studio-code (extensions)
+1. kycloud & shadowsocks
+2. xcode-select --install
+3. brew.sh
+4. iterm2
+5. zsh
+6. visual-studio-code (extensions)
 
   > cat extensions.txt | xargs -L1 code --install-extension
+  
+  
   > setting-sync
   
 extensions:
@@ -60,15 +63,16 @@ keybinding:
         }
     ]
 ```
-6. google-chrome (extensions)
+
+7. google-chrome (extensions)
   
-6.1. passive（Highly Suggested）
+- passive（Highly Suggested）
 ```conf
   ad-block
   refined-github
 ```
   
-6.2. active
+- active
 ```conf
     outline
     onetab
@@ -77,11 +81,11 @@ keybinding:
     git-pod
     uc-qrcode
 ```
-7. git
-8. nvm  & yarn
-9. postman
-10.spectacle
-11. dotfiles
+8. git
+9. nvm  & yarn
+10. postman
+11.spectacle
+12. dotfiles
  - alias 
 ```conf
   alias cls='clear'
@@ -95,8 +99,10 @@ keybinding:
   ZSH_THEME="agnoster"
   # to hide the username@hostname
   USER=``
+  ...
+ - .prettierrc .npmrc .yarnrc  etc
 ```
-12. preference
+13. preference
 
 - Trackpad > Tap to click
 - Keyboard > Key Repeat > Fast
@@ -106,14 +112,14 @@ keybinding:
 - Security and Privacy > Firewall > Turn It On 
 - File Sharing > Turn It Off
 - iCloud > Find My Mac > Turn It On
-13. file orgnazation
-14. Finder
+14. file orgnazation
+15. Finder
   - Sidebar
   - Show Path
   - Set Default Directory
-15. ssh-keygen -t rsa -b 4096 -C "email@email.com"
-16. alfred with powerpack
-17. dash
+16. ssh-keygen -t rsa -b 4096 -C "email@email.com"
+17. alfred with powerpack
+18. dash
 
 ## Optional
 
@@ -123,14 +129,18 @@ keybinding:
 4. LaTex
 5. charles
 6. IOS Simulator & genymotion
-5. git config
+7. PicGo
+8. DingTalk
+9. Wechat
+10. QQ
+11. git config
 ```conf
 [user]
 	name = lucifer
 	email = lucifer@tsign.cn
 
 ```
-6. preference
+12. preference
 
 - Trackpad > Scroll & Zoom > uncheck scroll direction: Natural
 - Users & Groups > Edit Avatar
