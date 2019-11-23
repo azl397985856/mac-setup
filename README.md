@@ -83,8 +83,15 @@ keybinding:
 ```
 8. git
 9. nvm  & yarn
+
+nvm 需要設置環境變量：
+```conf
+# NVM
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+```
 10. postman
-11.spectacle
+11. spectacle
 12. dotfiles
  - alias 
 ```conf
