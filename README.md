@@ -140,7 +140,7 @@ source $(brew --prefix nvm)/nvm.sh
 4. LaTex
 5. charles
 6. IOS Simulator & genymotion
-7. PicGo
+7. iPic
 8. DingTalk
 9. Wechat
 10. QQ
