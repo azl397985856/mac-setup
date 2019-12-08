@@ -56,7 +56,6 @@ extensions:
   
 keybinding:
 ```json
-    // 将键绑定放在此文件中以覆盖默认值auto[]
     [
         {
             "key": "alt+cmd+enter",
@@ -152,7 +151,6 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 13. karabiner-elements
 14. hexo.sh 
 > curl -s https://xaoxuu.com/install | sh -s hexo.sh 
-> 一个用来简化hexo操作的脚本
 15. git config
 ```conf
 [user]
