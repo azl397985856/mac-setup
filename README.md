@@ -111,6 +111,8 @@ source $(brew --prefix nvm)/nvm.sh
   ...
  - .prettierrc .npmrc .yarnrc  etc
 ```
+
+for more: please check [dev-config](https://github.com/azl397985856/dev-config/blob/master/README.md)
 13. preference
 
 - Trackpad > Tap to click
