@@ -49,6 +49,7 @@ extensions:
   better-comments
   carbon-now-sh
   vsliveshare
+  JavaScript (ES6) code snippets
   
 ```
   
