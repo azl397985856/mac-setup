@@ -14,7 +14,7 @@
 - Four Thunderbolt 3 ports
 
 
-RMB 25,135
+CNY 25,135
 
 ## Must Have
 
