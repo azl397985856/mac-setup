@@ -133,6 +133,7 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 18. dash
 19. switchy-host
 20. foxmail
+21. [Thor](https://apps.apple.com/cn/app/thor/id1120999687?mt=12)
 
 ## Optional
 
