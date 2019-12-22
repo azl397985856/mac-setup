@@ -134,6 +134,8 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 19. switchy-host
 20. foxmail
 21. [Thor](https://apps.apple.com/cn/app/thor/id1120999687?mt=12)
+22. [iina](https://iina.io/)
+23. [ezip](https://ezip.awehunt.com/)
 
 ## Optional
 
@@ -163,6 +165,11 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 
 - Trackpad > Scroll & Zoom > uncheck scroll direction: Natural
 - Users & Groups > Edit Avatar
+
+17. dozer (bci dozer)
+> bci for brew cask install
+
+18. [snipaste](https://zh.snipaste.com/)
 
 ## Others
 
