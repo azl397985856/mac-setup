@@ -175,6 +175,7 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 > bci is short for brew cask install
 
 18. [snipaste](https://zh.snipaste.com/)
+19. [licecap](https://www.cockos.com/licecap/)
 
 ## Others
 
