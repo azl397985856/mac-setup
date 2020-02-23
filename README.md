@@ -74,12 +74,18 @@ keybinding:
   
 - active
 ```conf
+    one click extensions manager
     outline
     onetab
     switchy omega
     sina-pic
     git-pod
+    octotree
     uc-qrcode
+    simple-read
+    instapaper(optional)
+    toby(or onetab)
+    达达滑词翻译
 ```
 8. git
 9. nvm  & yarn
@@ -149,7 +155,7 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 8. DingTalk
 9. Wechat
 10. QQ
-11. cheat-sheet
+11. [cheat-sheet](https://www.cheatsheetapp.com/CheatSheet/)
 12. youdao-note
 13. karabiner-elements
 14. hexo.sh 
