@@ -76,7 +76,6 @@ keybinding:
 ```conf
     one click extensions manager
     outline
-    onetab
     switchy omega
     sina-pic
     git-pod
@@ -88,7 +87,7 @@ keybinding:
     达达滑词翻译
 ```
 8. git
-9. nvm  & yarn
+9. nvm  and yarn
 
 nvm 需要設置環境變量：
 ```conf
@@ -173,7 +172,7 @@ for more: please check [dev-config](https://github.com/azl397985856/dev-config/b
 - Users & Groups > Edit Avatar
 
 17. dozer (bci dozer)
-> bci for brew cask install
+> bci is short for brew cask install
 
 18. [snipaste](https://zh.snipaste.com/)
 
